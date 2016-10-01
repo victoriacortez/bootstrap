@@ -4,11 +4,18 @@ h1 {
 }
 
 .panel-default{
-	color:#4aaaa5;
+	color:#000000;
 	margin-right: 70px;
 	text-align: center;
 }
 
+.panel-title{
+	color:#4aaaa5;
+}
+
+a {
+	color:gray;
+}
 .navbar-brand {
 	color: #45555a;
 	padding-left: 90px;
